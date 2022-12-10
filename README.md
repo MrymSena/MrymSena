@@ -14,8 +14,7 @@
 <div>
 
 - 📫 Reach me on   <br></br>
-	<div href="https://www.linkedin.com/in/meryem-sena-bark-2a8bb0a4/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></div>
-</div>
+	[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meryem-sena-bark-2a8bb0a4/)
 
 - ![](https://komarev.com/ghpvc/?username=mrymsena)
 
